@@ -4,6 +4,8 @@ Simple Enum Implementation for Node.js
 ## Regular Usage
 Usage is simple, set up your enum like below:
 
+    var Enum = require("enum-js");
+
     var Shape = new Enum([
         "SQUARE",
         "CIRCLE",
