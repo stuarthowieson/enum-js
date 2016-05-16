@@ -1,0 +1,22 @@
+{
+  "name": "enum-js",
+  "version": "1.0.0",
+  "description": "Simple Enum Implementation for Node.js",
+  "main": "enum.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stuarthowieson/enum-js.git"
+  },
+  "keywords": [
+    "enum"
+  ],
+  "author": "Stuart Howieson <stuart@stuarthowieson.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stuarthowieson/enum-js/issues"
+  },
+  "homepage": "https://github.com/stuarthowieson/enum-js#readme"
+}
